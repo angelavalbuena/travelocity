@@ -117,6 +117,7 @@ public class TravelocityCase1 {
        departingDateDataPicker.click();
 
       // returningField.click();*/
+//cambio sonso
     }
 
     private static String getMonth(String departingMonth) {
